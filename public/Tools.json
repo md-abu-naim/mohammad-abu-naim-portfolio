@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Visual Studio Code",
+        "image": "https://i.postimg.cc/hGVRZN7S/visual-studio-code.png"
+    },
+    {
+        "name": "Git",
+        "image": "https://i.postimg.cc/TYPG2kB9/git-1.png"
+    },
+    {
+        "name": "Github",
+        "image": "https://i.postimg.cc/nhytknrR/github.png"
+    },
+    {
+        "name": "Figma",
+        "image": "https://i.postimg.cc/kXhC2Qmd/figma.png"
+    },
+    {
+        "name": "Fixso",
+        "image": "https://i.postimg.cc/cCFSMYtw/pixso.png"
+    }
+]

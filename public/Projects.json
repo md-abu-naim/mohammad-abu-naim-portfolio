@@ -1,0 +1,111 @@
+[
+    {
+        "name": "NatureGlow",
+        "image": "https://i.postimg.cc/zvfb8VbK/Nature-Glow.png",
+        "url": "https://natureglow-740e8.web.app",
+        "client": "https://github.com/md-abu-naim/NatureGlow",
+        "server": "",
+        "description": "NatureGlow is an organic skincare e-commerce site featuring category-based filtering, cart & checkout system, and a beautiful UI optimized for modern shopping experience.",
+        "features": [
+            "Users can securely sign up and log in via Firebase Authentication using Google or email/password, with active/inactive status tracked in MongoDB.",
+            "Role-based access control provides distinct dashboards and permissions for admins and users.",
+            "Admins manage products dynamically through a dashboard that allows adding, updating, and deleting items, with real-time UI updates.",
+            "Orders include saved delivery addresses (stored locally and in the database), live payment and order status updates for seamless tracking.",
+            "Powerful search and filter functionality enables quick product discovery by name, category, or other criteria.",
+            "The entire platform is built using React, Node.js, Express.js, MongoDB, with TailwindCSS and DaisyUI ensuring a responsive, user-friendly interface."
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Firebase",
+            "Tailwind.css"
+        ]
+    },
+    {
+        "name": "ScholarHub",
+        "image": "https://i.postimg.cc/g2W7ksSJ/scholar-Hub.png",
+        "url": "https://scholarhub-98ad5.web.app/",
+        "client": "https://github.com/md-abu-naim/A12-ScholarHub-Client",
+        "server": "https://github.com/md-abu-naim/A12-ScholarHub-Server",
+        "description": "ScholarHub is a full-stack study platform featuring subject-wise sessions, multi-role dashboards, and real-time booking with session approval management.",
+        "features": [
+            "You can see all our study sessions on My home page and click on the Ongoing button to see the complete details, and see the all reviews made by our other students, and there as a student you can book the session of your choice. Where there is a free or paid system",
+            "My website has different types of dashboard like admin dashboard, tutor dashboard, student dashboard. The student dashboard contains all the sessions booked by the student and click on Details button to see their complete details, and as a student can make important comments about this session.",
+            "Finally, there is the Admin dashboard where the admin can see all the users and can change the role of the user if he wants. There is also View all study sessions to add tutors from where he can Approve and Reject and set the session fee, and there is also View all materials Page."
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "Stripe",
+            "MongoDB",
+            "Express.js",
+            "JWT",
+            "Firebase",
+            "Tailwind.css",
+            "Tanstack query"
+        ]
+    },
+    {
+        "name": "Granny Restaurent",
+        "image": "https://i.postimg.cc/Y9WNFKjw/granny-restaurent.jpg",
+        "url": "https://granny-resturant.web.app/",
+        "client": "https://github.com/md-abu-naim/A11-Granny-Restaurent-client",
+        "server": "https://github.com/md-abu-naim/A11-Granny-Restaurent-server",
+        "description": "Granny Restaurent is a responsive food ordering site featuring dynamic food listing, search, cart system, and food management for both users and sellers.",
+        "features": [
+            "On the Home page of our website, there are some top selling foods and there is a button called SEE ALL FOODS, if you want, you can see all our foods from our All Foods page by clicking on that button. And there is a search bar in the title of the All Foods page from where you can find any specific food.",
+            "And you can see the complete details of each food by clicking on the DETAILS button of the food, and by filling the form given there by clicking on the Purchases button, you can purchase the desired food, and you can view each food you purchased from the MY ORDERED FOOD ITEMS page in table form.",
+            "Finally, if you want, you can add your favorite food for sale by filling out the form on our ADD A FOOD ITEM page. And specifically, the foods that you have added can be seen on the MY ADDED FOOD ITEMS page and you can update your food by clicking on the update icon given there."
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Express.js",
+            "JWT",
+            "Firebase",
+            "Tailwind.css",
+            "React Hook Form"
+        ]
+    },
+    {
+        "name": "MonaZila",
+        "image": "https://i.postimg.cc/Vv9j7qjG/monaZila.jpg",
+        "url": "https://monazila-852ee.web.app/",
+        "client": "https://github.com/md-abu-naim/A10-MonaZial-client",
+        "server": "https://github.com/md-abu-naim/A10-MonaZila-server",
+        "description": "MonaZila is an Art & Craft platform where users can add, manage, and explore various creative works including crafts and paintings.",
+        "features": [
+            "If you want you can add Craft Item as you want from our Add Craft Item page.",
+            "And you can see all the items you have added in the All Art & Craft Items page and from there you can see the complete details of your item by clicking the View Details button.",
+            "And every user of our website can see the added items on My Art&Craft List page and can update and delete from there."
+        ],
+        "technologies": [
+            "React.js",
+            "Node.js",
+            "MongoDB",
+            "Express.js",
+            "Stripe",
+            "JWT",
+            "Firebase",
+            "Tailwind.css",
+            "React Hook Form"
+        ]
+    },
+    {
+        "name": "GYM-FIT",
+        "image": "https://i.postimg.cc/1z0HbXVy/GymFit.png",
+        "url": "https://gym-fit-sigma.vercel.app/",
+        "client": "https://github.com/md-abu-naim/GYM-FIT",
+        "description": "GYM-FIT is a fitness-focused web app built with Next.js, offering workout plan listings and personal routine tracking for gym enthusiasts.",
+        "features": [
+            "A dedicated users can see all available fitness routines for more information"
+        ],
+        "technologies": [
+            "Next.js",
+            "Tailwind.css"
+        ]
+    }
+]
