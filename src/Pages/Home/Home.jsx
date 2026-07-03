@@ -22,12 +22,12 @@ const Home = () => {
     return (
         <div>
             <Banner />
-            {/* <About />
-            <Skills />
-            <Educations />
-            <Projects />
-            <Contacts />
-            <Footer /> */}
+            <About />
+            {/* <Skills /> */}
+            {/* <Educations /> */}
+            {/* <Projects /> */}
+            {/* <Contacts /> */}
+            {/* <Footer /> */}
         </div>
     );
 };
