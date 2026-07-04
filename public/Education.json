@@ -1,0 +1,30 @@
+[
+    {
+        "title": "M.A. (Masters) Certificate",
+        "institution": "AL-Jamiatul Ahliya Darul Uloom Muinul Islam",
+        "duration": "May 2025 - February 2026",
+        "result": "GPA: Jayyid Jiddan",
+        "type": "academic"
+    },
+    {
+        "title": "B.A. (Honours) Certificate",
+        "institution": "Jamia Mohammadia Khajuria Madrasha",
+        "duration": "April 2024 - February 2025",
+        "result": "GPA: 4.00 (A+)",
+        "type": "academic"
+    },
+    {
+        "title": "Complete Web Development Course",
+        "institution": "Programming Hero",
+        "duration": "December 2023 - June 2024",
+        "link": "https://drive.google.com/file/d/1KNoKEhqFePHyphD9spusWV-MKbOAMf0R/view?usp=sharing",
+        "type": "course"
+    },
+    {
+        "title": "Complete Web Development Course Black Belt",
+        "institution": "Programming Hero",
+        "duration": "July 2024 - August 2024",
+        "link": "https://drive.google.com/file/d/1FTVLLElWwfvPvxk7iI9AM-s_nee9fImv/view?usp=sharing",
+        "type": "course"
+    }
+]

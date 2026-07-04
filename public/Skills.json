@@ -1,42 +1,89 @@
 [
-    {
-        "name": "React JS",
-        "image": "https://i.postimg.cc/J4CHsTDw/React-icon-svg.png"
-    },
-    {
-        "name": "Node JS",
-        "image": "https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp&w=256"
-    },
-    {
-        "name": "Express JS",
-        "image": "https://i.postimg.cc/523zdw2h/express-js.png"
-    },
-    {
-        "name": "MongoDB",
-        "image": "https://i.postimg.cc/cCwKD3z5/mongodb.webp"
-    },
-    {
-        "name": "Firebase",
-        "image": "https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png"
-    },
-    {
-        "name": "JavaSript",
-        "image": "https://i.postimg.cc/FKHL97f7/javascript-logo.png"
-    },
-    {
+  {
+    "title": "Frontend Development",
+    "skills": [
+      {
+        "name": "React.js",
+        "level": 90
+      },
+      {
+        "name": "TypeScript",
+        "level": 75
+      },
+      {
+        "name": "JavaScript (ES6+)",
+        "level": 80
+      },
+      {
         "name": "Tailwind CSS",
-        "image": "https://i.postimg.cc/sD8Fj3Yj/tailwindcss.png"
-    },
-    {
-        "name": "Bootstrap",
-        "image": "https://i.postimg.cc/wB4q6qPV/file.png"
-    },
-    {
-        "name": "CSS3",
-        "image": "https://img-resize-cdn.joshmartin.ch/768x0%2Cc3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://joshmartin.ch/app/uploads/2017/10/css3.svg"
-    },
-    {
+        "level": 95
+      },
+      {
         "name": "HTML5",
-        "image": "https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png"
-    }
+        "level": 95
+      },
+      {
+        "name": "CSS3",
+        "level": 95
+      }
+    ]
+  },
+  {
+    "title": "Backend Development",
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": 75
+      },
+      {
+        "name": "Postgres",
+        "level": 80
+      },
+      {
+        "name": "Express.js",
+        "level": 80
+      },
+      {
+        "name": "MongoDB",
+        "level": 80
+      },
+      {
+        "name": "NeonDB",
+        "level": 60
+      },
+      {
+        "name": "REST APIs",
+        "level": 85
+      }
+    ]
+  },
+  {
+    "title": "Tools & Others",
+    "skills": [
+      {
+        "name": "Git & GitHub",
+        "level": 85
+      },
+      {
+        "name": "Firebase",
+        "level": 75
+      },
+      {
+        "name": "Vercel / Netlify",
+        "level": 80
+      },
+      {
+        "name": "VS Code",
+        "level": 90
+      },
+      {
+        "name": "Postman",
+        "level": 90
+      },
+      {
+        "name": "DrawSQL",
+        "level": 90
+      }
+    ]
+  }
 ]

@@ -5,8 +5,7 @@ const ProjectDetails = () => {
     const [projects, setProjects] = useState([]);
     const { name } = useParams();
     
-    // URL-er encoded name (%20) thakle seta handle korbe ebong match korbe
-    const project = projects?.find(project => project.name.toLowerCase() === decodeURIComponent(name || '').toLowerCase());
+    const project = projects?.find(project => project.name.toLowerCase() ===name.toLowerCase());
     const { image, url, client, server, description, features, technologies, challenges, future_plans } = project || {};
 
     useEffect(() => {
@@ -16,24 +15,6 @@ const ProjectDetails = () => {
                 setProjects(data);
             });
     }, []);
-
-    // Loader if data is fetching
-    if (projects.length === 0) {
-        return (
-            <div className="bg-gray-900 min-h-screen flex items-center justify-center text-gray-100">
-                <span className="text-xl font-medium tracking-wide animate-pulse">Loading project details...</span>
-            </div>
-        );
-    }
-
-    // 404 handler if project name doesn't match
-    if (!project) {
-        return (
-            <div className="bg-gray-900 min-h-screen flex items-center justify-center text-gray-100">
-                <span className="text-xl font-medium text-red-400">Project not found!</span>
-            </div>
-        );
-    }
 
     return (
         <section className='bg-gray-900 text-gray-100 min-h-screen px-4 md:px-10 py-16 flex items-center justify-center'>
